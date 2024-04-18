@@ -1,0 +1,24 @@
+Calculation method: Library BFGS
+Computed function: 100 * (y - x ^ 2) ^ 2 + (1 - x ^ 2)
+Start point: [0, 0]
+Iterations: 21
+Result args: [0.9999955222374449, 0.9999910370425042]
+Result value: 2.005591137988887e-11
+Execution time (seconds): 0.00473475456237793
+
+Calculation method: Library BFGS
+Computed function: 100 * (y - x ^ 2) ^ 2 + (1 - x ^ 2)
+Start point: [10, 10]
+Iterations: 86
+Result args: [0.9999957207055239, 0.9999914193496645]
+Result value: 1.8361112509131926e-11
+Execution time (seconds): 0.021834611892700195
+
+Calculation method: Library BFGS
+Computed function: 100 * (y - x ^ 2) ^ 2 + (1 - x ^ 2)
+Start point: [50, 100]
+Iterations: 250
+Result args: [0.9999995483801059, 0.9999989282953867]
+Result value: 3.042007125923673e-12
+Execution time (seconds): 0.06211423873901367
+

@@ -1,0 +1,24 @@
+Calculation method: Newton-CG
+Computed function: 100 * (y - x ^ 2) ^ 2 + (1 - x ^ 2)
+Start point: [0, 0]
+Iterations: 35
+Result args: [0.9999992386960386, 0.9999984720313113]
+Result value: 5.824581241001446e-13
+Execution time (seconds): 0.007467746734619141
+
+Calculation method: Newton-CG
+Computed function: 100 * (y - x ^ 2) ^ 2 + (1 - x ^ 2)
+Start point: [10, 10]
+Iterations: 57
+Result args: [1.0000000788827543, 1.0000001580885498]
+Result value: 6.2329240871958854e-15
+Execution time (seconds): 0.009249210357666016
+
+Calculation method: Newton-CG
+Computed function: 100 * (y - x ^ 2) ^ 2 + (1 - x ^ 2)
+Start point: [50, 100]
+Iterations: 109
+Result args: [0.9999996030084348, 0.999999204193901]
+Result value: 1.5793468177824026e-13
+Execution time (seconds): 0.01926279067993164
+

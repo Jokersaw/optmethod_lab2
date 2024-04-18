@@ -1,0 +1,24 @@
+Calculation method: BFGS
+Computed function: sin(x) - cos(y) + x ^ 2
+Start point: [0, 0]
+Iterations: 6
+Result args: [-0.45018361129487355, 0.0]
+Result value: -1.2324655751582156
+Execution time (seconds): 0.00034618377685546875
+
+Calculation method: BFGS
+Computed function: sin(x) - cos(y) + x ^ 2
+Start point: [10, 10]
+Iterations: 10
+Result args: [-0.4501836112948736, 12.566370614359172]
+Result value: -1.2324655751582156
+Execution time (seconds): 0.0005321502685546875
+
+Calculation method: BFGS
+Computed function: sin(x) - cos(y) + x ^ 2
+Start point: [50, 100]
+Iterations: 7
+Result args: [-0.45018361129394835, 100.53096491486941]
+Result value: -1.2324655751582156
+Execution time (seconds): 0.0003597736358642578
+
